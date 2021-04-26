@@ -9,6 +9,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
 @SpringBootApplication
 
+//Sample changes for test-branch
 public class CrudDemoApplication {
 
 	public static void main(String[] args) {
